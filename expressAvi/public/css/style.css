@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-style{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+.big-text{
+    font-size: 5rem;
+    color: darkorange;
+}
+.navbar-style li a:hover{
+    background: darkorange;
+    border-radius: 5px;
+}
+.main{
+    background: cyan;
+}
+
+a.btn-first{
+    margin: 30px 10px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+a.btn-first:hover{
+    background: crimson;
+    border: none;
+    color: #fff;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+}
+
+/* .last{
+    font-size: 1.5rem;
+} */
+
+.det{
+    background: orange;
+}
+
+
